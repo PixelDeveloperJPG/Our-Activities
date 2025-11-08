@@ -15,5 +15,18 @@
   ],
   "diziler": [],
   "tarifler": [],
-  "oyunlar": []
+  "oyunlar": [
+    {
+      "id": 1762646227383,
+      "title": "Bilmem ne",
+      "description": "detaylar",
+      "imageUrl": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2024/12/love-and-deepspace-an-image-of-sylus-during-his-resonance-skill-cutscene.jpg?w=1600&h=1200&fit=crop",
+      "rating": 0,
+      "genre": "Türbülans",
+      "ingredients": [],
+      "seasons": [],
+      "watched": false,
+      "date": "09.11.2025"
+    }
+  ]
 }
