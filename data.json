@@ -1,0 +1,19 @@
+{
+  "filmler": [
+    {
+      "id": 1762645796682,
+      "title": "Instertellar",
+      "description": "",
+      "imageUrl": "https://i.pinimg.com/originals/e3/0b/84/e30b84386f341354a0687196a6aed100.jpg",
+      "rating": 5,
+      "genre": "",
+      "ingredients": [],
+      "seasons": [],
+      "watched": false,
+      "date": "09.11.2025"
+    }
+  ],
+  "diziler": [],
+  "tarifler": [],
+  "oyunlar": []
+}
