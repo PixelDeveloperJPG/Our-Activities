@@ -1,5 +1,18 @@
 {
-  "movies": [],
+  "movies": [
+    {
+      "id": 1762722624287,
+      "title": "Rush hour 2",
+      "description": "",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGojbyHOnoauT7aXOptnsW53lyp2OlL4bREQ&s",
+      "rating": 5,
+      "genre": "",
+      "ingredients": [],
+      "seasons": [],
+      "watched": false,
+      "date": "11/10/2025"
+    }
+  ],
   "series": [
     {
       "id": 1762722113252,
