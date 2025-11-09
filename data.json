@@ -15,5 +15,18 @@
   ],
   "diziler": [],
   "tarifler": [],
-  "oyunlar": []
+  "oyunlar": [
+    {
+      "id": 1762719378531,
+      "title": "asdasd",
+      "description": "",
+      "imageUrl": "",
+      "rating": 5,
+      "genre": "asdasd",
+      "ingredients": [],
+      "seasons": [],
+      "watched": false,
+      "date": "09.11.2025"
+    }
+  ]
 }
