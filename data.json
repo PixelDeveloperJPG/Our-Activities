@@ -1,18 +1,5 @@
 {
-  "movies": [
-    {
-      "id": 1762720620669,
-      "title": "asdasd",
-      "description": "asdasd",
-      "imageUrl": "",
-      "rating": 5,
-      "genre": "",
-      "ingredients": [],
-      "seasons": [],
-      "watched": true,
-      "date": "11/9/2025"
-    }
-  ],
+  "movies": [],
   "series": [
     {
       "id": 1762721331199,
