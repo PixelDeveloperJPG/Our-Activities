@@ -1,32 +1,6 @@
 {
   "movies": [],
-  "series": [
-    {
-      "id": 1762721331199,
-      "title": "steven universe",
-      "description": "asdasd",
-      "imageUrl": "",
-      "rating": 5,
-      "genre": "",
-      "ingredients": [],
-      "seasons": [
-        {
-          "season": 1,
-          "totalEpisodes": 20,
-          "watchedEpisodes": [
-            1
-          ]
-        },
-        {
-          "season": 2,
-          "totalEpisodes": 22,
-          "watchedEpisodes": []
-        }
-      ],
-      "watched": false,
-      "date": "11/9/2025"
-    }
-  ],
+  "series": [],
   "recipes": [
     {
       "id": 1762720632973,
