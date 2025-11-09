@@ -1,6 +1,25 @@
 {
   "movies": [],
-  "series": [],
+  "series": [
+    {
+      "id": 1762722113252,
+      "title": "Queen Charlotte: A Bridgerton Story",
+      "description": "",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FQueen_Charlotte%3A_A_Bridgerton_Story&psig=AOvVaw3oUIOtLKtJyhgv2IVNjsSe&ust=1762808298416000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJC3pO765ZADFQAAAAAdAAAAABAE",
+      "rating": 4,
+      "genre": "",
+      "ingredients": [],
+      "seasons": [
+        {
+          "season": 1,
+          "totalEpisodes": 6,
+          "watchedEpisodes": []
+        }
+      ],
+      "watched": false,
+      "date": "11/10/2025"
+    }
+  ],
   "recipes": [
     {
       "id": 1762720664372,
