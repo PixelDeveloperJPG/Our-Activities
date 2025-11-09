@@ -29,6 +29,18 @@
   ],
   "recipes": [
     {
+      "id": 1762720632973,
+      "title": "asdasd",
+      "description": "",
+      "imageUrl": "",
+      "rating": 5,
+      "genre": "",
+      "ingredients": [],
+      "seasons": [],
+      "watched": false,
+      "date": "11/9/2025"
+    },
+    {
       "id": 1762720664372,
       "title": "asdas",
       "description": "",
