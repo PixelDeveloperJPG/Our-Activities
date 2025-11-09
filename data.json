@@ -1,5 +1,18 @@
 {
-  "movies": [],
+  "movies": [
+    {
+      "id": 1762720620669,
+      "title": "asdasd",
+      "description": "asdasd",
+      "imageUrl": "",
+      "rating": 5,
+      "genre": "",
+      "ingredients": [],
+      "seasons": [],
+      "watched": false,
+      "date": "11/9/2025"
+    }
+  ],
   "series": [],
   "recipes": [],
   "games": []
