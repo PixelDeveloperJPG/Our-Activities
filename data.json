@@ -95,30 +95,6 @@
       "date": "11/10/2025"
     }
   ],
-  "recipes": [
-    {
-      "id": 1762720664372,
-      "title": "asdas",
-      "description": "",
-      "imageUrl": "",
-      "rating": 4,
-      "genre": "",
-      "ingredients": [
-        {
-          "name": "sasdad",
-          "amount": "22",
-          "unit": "g"
-        },
-        {
-          "name": "saasd",
-          "amount": "223",
-          "unit": "g"
-        }
-      ],
-      "seasons": [],
-      "watched": false,
-      "date": "11/9/2025"
-    }
-  ],
+  "recipes": [],
   "games": []
 }
