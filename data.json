@@ -55,6 +55,44 @@
       ],
       "watched": false,
       "date": "11/10/2025"
+    },
+    {
+      "id": 1762724356387,
+      "title": "steven universe",
+      "description": "",
+      "imageUrl": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/eb66748d-f7f2-458a-aa7b-488e2fb8bef1/0f2a508b-6ed7-11ef-80b0-12734a5a1b4d?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "rating": 5,
+      "genre": "",
+      "ingredients": [],
+      "seasons": [
+        {
+          "season": 1,
+          "totalEpisodes": 53,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 2,
+          "totalEpisodes": 25,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 3,
+          "totalEpisodes": 25,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 4,
+          "totalEpisodes": 25,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 5,
+          "totalEpisodes": 32,
+          "watchedEpisodes": []
+        }
+      ],
+      "watched": false,
+      "date": "11/10/2025"
     }
   ],
   "recipes": [
