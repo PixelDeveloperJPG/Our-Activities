@@ -28,5 +28,18 @@
       "date": "11/9/2025"
     }
   ],
-  "games": []
+  "games": [
+    {
+      "id": 1762720640909,
+      "title": "afafasd",
+      "description": "",
+      "imageUrl": "",
+      "rating": 5,
+      "genre": "afasdas",
+      "ingredients": [],
+      "seasons": [],
+      "watched": false,
+      "date": "11/9/2025"
+    }
+  ]
 }
