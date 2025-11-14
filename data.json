@@ -269,5 +269,18 @@
       "date": "11/14/2025"
     }
   ],
-  "games": []
+  "games": [
+    {
+      "id": 1763128840821,
+      "title": "biped",
+      "description": "",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1071870/58bf76f6dfc7ecf1c69a6b3b70767973cbb7041d/capsule_616x353.jpg?t=1759826800",
+      "rating": 1,
+      "genre": "Puzzle & Adventure",
+      "ingredients": [],
+      "seasons": [],
+      "watched": false,
+      "date": "11/14/2025"
+    }
+  ]
 }
