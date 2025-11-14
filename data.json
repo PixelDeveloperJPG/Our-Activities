@@ -239,6 +239,35 @@
       "date": "11/10/2025"
     }
   ],
-  "recipes": [],
+  "recipes": [
+    {
+      "id": 1763116275531,
+      "title": "Egg n' Avocado breakfast sandwich",
+      "description": "high protein/full with nutrients\n\nsteps:\n\n-boil 2 eggs then chop them into a bowl\n\n-in the same bowl add one avocado (of course remove the skin and seed)\n\n-mush them up and mix them into a paste\n\n\nnote: ~you can add some salt pepper as needed. \n      ~basil and feta cheese would go very well on top.\n      ~you can add olive oil to make the texture more\n      like paste.",
+      "imageUrl": "https://www.twopeasandtheirpod.com/wp-content/uploads/2021/03/Avocado-Egg-Salad-2.jpg",
+      "rating": 1,
+      "genre": "",
+      "ingredients": [
+        {
+          "name": "some basil",
+          "amount": "4",
+          "unit": "pcs"
+        },
+        {
+          "name": "boiled eggs",
+          "amount": "2",
+          "unit": "pcs"
+        },
+        {
+          "name": "avacado",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "seasons": [],
+      "watched": false,
+      "date": "11/14/2025"
+    }
+  ],
   "games": []
 }
