@@ -293,6 +293,18 @@
       "seasons": [],
       "watched": false,
       "date": "11/14/2025"
+    },
+    {
+      "id": 1763129207939,
+      "title": "resident evil village",
+      "description": "C plays",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg?t=1741142800",
+      "rating": 5,
+      "genre": "Horor & action",
+      "ingredients": [],
+      "seasons": [],
+      "watched": false,
+      "date": "11/14/2025"
     }
   ]
 }
