@@ -318,6 +318,59 @@
       ],
       "watched": false,
       "date": "11/15/2025"
+    },
+    {
+      "id": 1763207497608,
+      "title": "game of thrones",
+      "description": "",
+      "imageUrl": "https://media.gq-magazin.de/photos/5cd5a33d456a1f43f636a55f/16:9/w_2560%2Cc_limit/entertainment-got-verriss-sad-jon-snow.jpg",
+      "rating": 5,
+      "genre": "",
+      "ingredients": [],
+      "seasons": [
+        {
+          "season": 1,
+          "totalEpisodes": 10,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 2,
+          "totalEpisodes": 10,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 3,
+          "totalEpisodes": 10,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 4,
+          "totalEpisodes": 10,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 5,
+          "totalEpisodes": 10,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 6,
+          "totalEpisodes": 10,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 7,
+          "totalEpisodes": 7,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 8,
+          "totalEpisodes": 6,
+          "watchedEpisodes": []
+        }
+      ],
+      "watched": false,
+      "date": "11/15/2025"
     }
   ],
   "recipes": [
