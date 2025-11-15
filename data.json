@@ -285,6 +285,39 @@
       ],
       "watched": false,
       "date": "11/10/2025"
+    },
+    {
+      "id": 1763207324561,
+      "title": "The boys",
+      "description": "",
+      "imageUrl": "https://www.gamespot.com/a/uploads/screen_kubrick/171/1712892/3749695-new-photo-released-for-the-boys-season-2-perfectly-captures-the-tone-of-the-show-social.jpg",
+      "rating": 5,
+      "genre": "",
+      "ingredients": [],
+      "seasons": [
+        {
+          "season": 1,
+          "totalEpisodes": 8,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 2,
+          "totalEpisodes": 8,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 3,
+          "totalEpisodes": 8,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 4,
+          "totalEpisodes": 8,
+          "watchedEpisodes": []
+        }
+      ],
+      "watched": false,
+      "date": "11/15/2025"
     }
   ],
   "recipes": [
