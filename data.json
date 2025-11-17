@@ -371,6 +371,34 @@
       ],
       "watched": false,
       "date": "11/15/2025"
+    },
+    {
+      "id": 1763401629976,
+      "title": "mr invincible",
+      "description": "",
+      "imageUrl": "https://i.ytimg.com/vi/mZs1dXS2sAo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCe6_B2RHQhEGReLIUYk03K3SELjg",
+      "rating": 1,
+      "genre": "",
+      "ingredients": [],
+      "seasons": [
+        {
+          "season": 1,
+          "totalEpisodes": 8,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 2,
+          "totalEpisodes": 8,
+          "watchedEpisodes": []
+        },
+        {
+          "season": 3,
+          "totalEpisodes": 8,
+          "watchedEpisodes": []
+        }
+      ],
+      "watched": false,
+      "date": "11/17/2025"
     }
   ],
   "recipes": [
