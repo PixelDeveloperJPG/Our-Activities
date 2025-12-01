@@ -627,6 +627,24 @@
       "watched": false,
       "completed": false,
       "date": "12/2/2025"
+    },
+    {
+      "id": 1764628803015,
+      "title": "Learn Spanish",
+      "description": "",
+      "imageUrl": "",
+      "rating": 2,
+      "genre": "",
+      "author": "",
+      "totalPages": 0,
+      "player1Pages": 0,
+      "player2Pages": 0,
+      "location": "in Duolingo",
+      "ingredients": [],
+      "seasons": [],
+      "watched": false,
+      "completed": false,
+      "date": "12/2/2025"
     }
   ]
 }
