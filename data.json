@@ -608,5 +608,25 @@
       "completed": false,
       "date": "12/2/2025"
     }
+  ],
+  "bucket": [
+    {
+      "id": 1764628774488,
+      "title": "Watch Movie every week",
+      "description": "",
+      "imageUrl": "",
+      "rating": 0,
+      "genre": "",
+      "author": "",
+      "totalPages": 0,
+      "player1Pages": 0,
+      "player2Pages": 0,
+      "location": "",
+      "ingredients": [],
+      "seasons": [],
+      "watched": false,
+      "completed": false,
+      "date": "12/2/2025"
+    }
   ]
 }
