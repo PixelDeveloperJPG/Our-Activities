@@ -588,5 +588,25 @@
       "watched": false,
       "date": "11/14/2025"
     }
+  ],
+  "books": [
+    {
+      "id": 1764628649263,
+      "title": "Full Moon Cafe",
+      "description": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81cccwgPuBL._SY425_.jpg",
+      "rating": 3,
+      "genre": "",
+      "author": "MAI Mochizuki",
+      "totalPages": 224,
+      "player1Pages": 5,
+      "player2Pages": 35,
+      "location": "",
+      "ingredients": [],
+      "seasons": [],
+      "watched": false,
+      "completed": false,
+      "date": "12/2/2025"
+    }
   ]
 }
