@@ -625,6 +625,24 @@
       "watched": false,
       "completed": false,
       "date": "12/2/2025"
+    },
+    {
+      "id": 1764751589953,
+      "title": "im not lazy, im on energy saving mode",
+      "description": "",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQzM2F96fP13SzFIxv3JQiR7fibvT14gfqTQ&s",
+      "rating": 1,
+      "genre": "",
+      "author": "Dancing Snail",
+      "totalPages": 240,
+      "player1Pages": 0,
+      "player2Pages": 0,
+      "location": "",
+      "ingredients": [],
+      "seasons": [],
+      "watched": false,
+      "completed": false,
+      "date": "12/3/2025"
     }
   ],
   "bucket": [
