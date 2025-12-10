@@ -643,6 +643,24 @@
       "watched": false,
       "completed": false,
       "date": "12/3/2025"
+    },
+    {
+      "id": 1765388871494,
+      "title": "Babel",
+      "description": "",
+      "imageUrl": "https://covers.shakespeareandcompany.com/97800085/9780008501853.jpg",
+      "rating": 5,
+      "genre": "",
+      "author": "R. F. Kuang",
+      "totalPages": 544,
+      "player1Pages": 30,
+      "player2Pages": 30,
+      "location": "",
+      "ingredients": [],
+      "seasons": [],
+      "watched": false,
+      "completed": false,
+      "date": "12/10/2025"
     }
   ],
   "bucket": [
